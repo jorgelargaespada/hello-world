@@ -6,3 +6,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Adding some new content.
+Adding some new contenet to trye git pull.
